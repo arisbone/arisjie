@@ -1,0 +1,725 @@
+
+
+##############################TV Cable############################
+
+#EXTINF:-1 group-title="LOCAL", Cinemaworld
+http://rr.dens.tv/h/h202/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Nhk world japan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Fight sports
+http://rr.dens.tv/h/h204/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Hits
+http://rr.dens.tv/h/h205/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Hits movies
+http://rr.dens.tv/h/h206/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", INDOSIAR
+http://rr3.dens.tv/s/s04/02.m3u8
+
+#EXTINF:-1 group-title="LOCAL", MY Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TV5MONDE Style
+http://rr.dens.tv/h/h121/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", MOJI
+http://rr3.dens.tv/s/s41/02.m3u8
+
+#EXTINF:-1 group-title="LOCAL", METROTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/Stream(01)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", CM
+http://rr.dens.tv/h/h212/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Rock Entertainment
+http://rr.dens.tv/h/h213/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TVN Movies
+http://rr.dens.tv/h/h214/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TVN
+http://rr.dens.tv/h/h215/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", CNA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch232)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", SCTV
+http://rr.dens.tv/h/h217/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Rock Action
+http://rr.dens.tv/h/h218/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", K+
+http://rr.dens.tv/h/h219/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", KIX
+http://rr.dens.tv/h/h220/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", DFC
+http://rr.dens.tv/h/h248/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", DENS Lifestyle
+http://rr.dens.tv/h/h222/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", NET
+http://rr.dens.tv/h/h223/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TVONE
+http://rr.dens.tv/h/h40/02.m3u8
+
+#EXTINF:-1 group-title="LOCAL", RTV
+http://rr.dens.tv/h/h10/02.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Toonmax
+http://rr.dens.tv/h/h227/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", France 24
+http://rr3.dens.tv/s/s22/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Nadoo Commerce
+http://rr.dens.tv/h/h126/live.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Nadoo Korean
+http://rr.dens.tv/h/h125/live.m3u8
+
+#EXTINF:-1 group-title="LOCAL", CCTV 4 ASIA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch209)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", RODJATV
+http://rr3.dens.tv/s/s14/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", KOMPASTV
+http://rr.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL", ANTV
+http://rr.dens.tv/h/h235/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL", DENS KNOWLEDGE
+http://rr.dens.tv/h/h236/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TVRI NASIONAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/Stream(01)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TVRI SPORT
+http://rr3.dens.tv/s/s107/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", CCM
+http://rr.dens.tv/h/h239/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", THRILL
+http://rr.dens.tv/h/h240/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Quran tv
+https://edge.taghtia.com/sa/7.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Motorvision
+http://210.210.155.35/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Sunnah tv
+https://edge.taghtia.com/sa/6.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Dens showbiz
+http://rr.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Dens Play
+http://rr.dens.tv/h/h225/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", CGTN DOCUMENTARY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TV5MONDE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch260)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL", BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/Stream(01)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", My Kidz
+http://rr.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Al Saudiya
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", DTV
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Trt World
+https://tv-trtworld.live.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 group-title="LOCAL", RTP
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 group-title="LOCAL", RTVE
+http://rr.dens.tv/h/h158/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", AL-JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/06.m3u8
+
+#EXTINF:-1 group-title="LOCAL", FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#EXTINF:-1 group-title="LOCAL", W-Sport
+http://rr.dens.tv/h/h26/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Euronews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch341)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Deluxe Lounge
+http://rr.dens.tv/h/h172/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", MGN
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL", IDTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/Stream(01)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Dance Tv
+http://rr.dens.tv/h/h250/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", WION
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Crema tv
+http://rr.dens.tv/h/h228/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Magna tv
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Stingray Ciassica
+http://rr.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", BN CHANNEL
+http://rr.dens.tv/h/h39/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Aniplus
+http://rr.dens.tv/h/h114/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Daaitv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", DW TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch250)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Elshinta TV
+http://rr2.dens.tv/s/s12/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", LIVE Streaming
+http://rr3.dens.tv/s/s100/live.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Dragon TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch220)/index.m3u8
+
+#EXTINf:-1 group-title="LOCAL", Rai Italia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch258)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", TBN Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch61)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Al-Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Star Xing Kong
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch206)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Zee Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", MotoRRacing
+http://rr.dens.tv/h/h123/live.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Horizon Sports
+http://rr.dens.tv/h/h127/live.m3u8
+
+#EXTINF:-1 group-title="LOCAL", JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Phoenix Chinese
+http://rr.dens.tv/h/h157/index2.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Phoenix News
+https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", Bloomberg
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch14)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", INEWS
+https://s.id/inews_shareext-m3u8
+
+#EXTINF:-1 group-title="LOCAL", GTV
+https://s.id/gtv_shareext-m3u8
+
+#EXTINF:-1 group-title="LOCAL", MNC TV
+https://s.id/mnctv_shareext-m3u8
+
+#EXTINF:-1 group-title="LOCAL", RCTI
+https://s.id/rcti_shareext-m3u8
+
+#EXTINF:-1 group-title="LOCAL", DENS.TV
+http://rr.dens.tv/h/h216/index.m3u8
+
+##########################
+######## JAPANESE ########
+##########################
+
+
+#EXTM3U
+#EXTINF:1, NHK BS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, NHK BS Premium	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS Nittere
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS Asahi
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS TBS	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS TV Tokyo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS Fuji	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, WOWOW Prime	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, WOWOW Live	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, WOWOW Cinema	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Star Channel 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Star Channel 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Star Channel 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS Animax		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS Sky PerfecTV!			
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, J Sports 1		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, J Sports 2		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, J Sports 3		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, J Sports 4		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, BS Tsuri Vision		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Nippon Eiga Senmon Channel
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, NHK General
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, NHK Education
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Nippon TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, TV Asahi
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, TBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, TV Tokyo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Fuji TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Toei Channel
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Channel Neco
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Movie Plus
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Sky A
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Gaora Sports
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Nittere G+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Golf Network
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Jidaigeki Senmon Channel
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Family Gekijo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Channel Ginga
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Super! Drama TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, AXN
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Fox Japan
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Lala TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Music On! TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Kids Station
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, Nittere News 24	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+##########################   HBO    ##########################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO GROUP",HBO
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO GROUP",HBO Signature
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO GROUP",HBO Hits
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="108" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO GROUP",HBO Family
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="109" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO GROUP",Cinemax
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="" group-title="HBO GROUP" group-logo="", HBO Asia Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b380a1293e83cb09d670b5d6fedaf7e:d4a964c51eb6233b085a080a761d3480
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO GROUP" group-logo="", HBO Signature Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97b88ab09bfd344d9b98fe27cdea9ec8:428c1b5aad09c10629f28bf1e3d10f03
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO GROUP" group-logo="", HBO Hits Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBneFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72f1aa781ee231beb98f30be106d67cd:81fdf57b35de360cd6e91d79547cad5b
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO GROUP" group-logo="", HBO Family Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26f7746faab9374bba08149549dfa5c1:31b343d3d1298d3bb9b79fa6afe1d17c
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrCkzkTS/GANAS-Cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="HBO GROUP" group-logo="", Cinemax Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c455cd80ed2c3fa7862f6f0604784398:4b444e067b41a0214111d96899003670
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 group-title="HBO GROUP" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO (Singapore)
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/iubUI1y.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO SIGNATURE (Singapore)
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/YNNLQG0.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO FAMILY (Singapore)
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/uar4bNC.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO HITS (Singapore)
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.postimg.cc/PrCkzkTS/GANAS-Cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", CINEMAX (Singapore)
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
+
+#EXTINF:0 tvg-id="hbohd" group-title="HBO GROUP" logo="https://imgur.com/UmfhBQU.png", HBO MYK+
+https://iplogger.com/HBOVN4M
+#EXTINF:0 tvg-id="cinemaxhd" group-title="HBO GROUP" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD MYV
+http://gg.gg/cin3maxmyv
+
+
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="HBO.th" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",HBO thai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",HBO Signature Thai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png",HBO Hits thai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY Thai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Thai 
+https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv
+
+
+
+
+
+#######################
+######## CHINA ########
+#######################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1371db61dcb79341544041396533df61.png" group-title="China",CN: CCTV 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283602
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c55699cda773f7257e344c022be05b90.png" group-title="China",CN: CCTV 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/174652
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: CCTV 5
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/299028
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 13新闻" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: CCTV 13新闻
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283600
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 1综合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: CCTV 1综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/275232
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5+体育赛事" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/adcb103b82c037db23bb28d1194da7a7.png" group-title="China",CN: CCTV 5+体育赛事
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/286858
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV+ 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: CCTV+ 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283595
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV+ 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/761478390e4aad0d71147e34fefe02a8.png" group-title="China",CN: CCTV+ 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283596
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN Arabic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a82cd0ef77a060d51c658796eb6b6d9b.png" group-title="China",CN: CGTN Arabic
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/121016
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b0c3f5c87e88102dea9d98d7028b8aa5.png" group-title="China",CN: CGTN Documentary
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/199989
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3ed1eadb0c5ac779f0ba69faf1cecad.png" group-title="China",CN: CGTN English
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/4818
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/82a01a0e533ba8345d54c904bb0fb3d1.png" group-title="China",CN: CGTN Espanol
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/163069
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN Francais" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bcaf9187ac5d479b0826ec2462ab7721.png" group-title="China",CN: CGTN Francais
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/15325
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN Russkij" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4861aadc3a95439cb211ca5cd94636a0.png" group-title="China",CN: CGTN Russkij
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/295428
+#EXTINF:-1 tvg-id="" tvg-name="CN: CGTN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/3cc7598746cfbc77eecaa04ca7abdb87.png" group-title="China",CN: CGTN TV
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/299479
+#EXTINF:-1 tvg-id="" tvg-name="CN: CNC英语" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1ae4791bc1c3f5c6c815b6f03b4f1480.png" group-title="China",CN: CNC英语
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283369
+#EXTINF:-1 tvg-id="" tvg-name="CN: TV BRICS Chinese" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5f9ae48bf6001fce613f8e183b8143f2.png" group-title="China",CN: TV BRICS Chinese
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283337
+#EXTINF:-1 tvg-id="" tvg-name="CN: 万州影视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/78a1536daac16160cebc991a69e7b067.png" group-title="China",CN: 万州影视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283670
+#EXTINF:-1 tvg-id="" tvg-name="CN: 万州科教" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 万州科教
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283671
+#EXTINF:-1 tvg-id="" tvg-name="CN: 万州综合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 万州综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283672
+#EXTINF:-1 tvg-id="" tvg-name="CN: 上海纪实" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2e9b2fa5ae2534a74c72b62bb75e8654.png" group-title="China",CN: 上海纪实
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/290447
+#EXTINF:-1 tvg-id="" tvg-name="CN: 上海金山电视台" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cf3d44f87f2a27141c3e0e0928d989fc.png" group-title="China",CN: 上海金山电视台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283735
+#EXTINF:-1 tvg-id="" tvg-name="CN: 上虞1新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/13a1f21b0e12aeaa5f6b339926502d4f.png" group-title="China",CN: 上虞1新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/167340
+#EXTINF:-1 tvg-id="" tvg-name="CN: 上虞3新商都" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/316f02838edf5db19c56fc6ac22847ca.png" group-title="China",CN: 上虞3新商都
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/167341
+#EXTINF:-1 tvg-id="" tvg-name="CN: 上虞經濟文化" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/213a60a825e957f824b3296727a760db.png" group-title="China",CN: 上虞經濟文化
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283736
+#EXTINF:-1 tvg-id="" tvg-name="CN: 东南卫视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e254fa42883629ddafddb197c333b9f6.png" group-title="China",CN: 东南卫视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283737
+#EXTINF:-1 tvg-id="" tvg-name="CN: 中国交通 (海南)" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/83fe150067002739185375f071ed057d.png" group-title="China",CN: 中国交通 (海南)
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283742
+#EXTINF:-1 tvg-id="" tvg-name="CN: 云南 Ⅰ 文山综合台" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5be7e4aebdf7e9bfbb2b3d035ee60d46.png" group-title="China",CN: 云南 Ⅰ 文山综合台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283748
+#EXTINF:-1 tvg-id="" tvg-name="CN: 云南 Ⅰ 红河综合台" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8b2b424771e7a1eee78451d2e41ac6ec.png" group-title="China",CN: 云南 Ⅰ 红河综合台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283749
+#EXTINF:-1 tvg-id="" tvg-name="CN: 云南卫视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/321e233027b81f6e4a071e870c29738f.png" group-title="China",CN: 云南卫视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283750
+#EXTINF:-1 tvg-id="" tvg-name="CN: 优视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ec1715bccec793f41d88db7faad8a05d.png" group-title="China",CN: 优视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283728
+#EXTINF:-1 tvg-id="" tvg-name="CN: 余姚姚江文化" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4ddb57177bccbffcb0ad42b2db020dbb.png" group-title="China",CN: 余姚姚江文化
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283725
+#EXTINF:-1 tvg-id="" tvg-name="CN: 余姚新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7e8ec089fb756d6343d82355587bb0db.png" group-title="China",CN: 余姚新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283724
+#EXTINF:-1 tvg-id="" tvg-name="CN: 利川公共" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b4351ae3ac1216355efcc3ae3b73e004.png" group-title="China",CN: 利川公共
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283688
+#EXTINF:-1 tvg-id="" tvg-name="CN: 利川新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ec15a8241ec2463ddfa9287dc0bdec44.png" group-title="China",CN: 利川新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283687
+#EXTINF:-1 tvg-id="" tvg-name="CN: 半岛新闻" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a6168b7e2ebdf07bd2ff18d5fa5e8f53.png" group-title="China",CN: 半岛新闻
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283675
+#EXTINF:-1 tvg-id="" tvg-name="CN: 南宁影视娱乐" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/33e55de0f782d164a055a39cd29885cb.png" group-title="China",CN: 南宁影视娱乐
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283321
+#EXTINF:-1 tvg-id="" tvg-name="CN: 南宁新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/66ab09f3259ebb2de57399fb7713a604.png" group-title="China",CN: 南宁新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283322
+#EXTINF:-1 tvg-id="" tvg-name="CN: 吉林乡村" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1dac1e998a3bb80d94c947229606e1c6.png" group-title="China",CN: 吉林乡村
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283328
+#EXTINF:-1 tvg-id="" tvg-name="CN: 唯心電視" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0845bc216c62a1fc5b34f8291c9c9afc.png" group-title="China",CN: 唯心電視
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283319
+#EXTINF:-1 tvg-id="" tvg-name="CN: 奇妙電視" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/de76b4939c3a54bfe8ffe119690c690e.png" group-title="China",CN: 奇妙電視
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283657
+#EXTINF:-1 tvg-id="" tvg-name="CN: 娄底综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/17e465dd0ec0d35c7781350edad1c1e5.png" group-title="China",CN: 娄底综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283662
+#EXTINF:-1 tvg-id="" tvg-name="CN: 宜章新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/bd34b79d42d56c723f2e665d757496f5.png" group-title="China",CN: 宜章新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/284266
+#EXTINF:-1 tvg-id="" tvg-name="CN: 嵊州综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b6c1d8eb2ba5d5b13fad9308c1bbae81.png" group-title="China",CN: 嵊州综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283542
+#EXTINF:-1 tvg-id="" tvg-name="CN: 巴中综合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 巴中综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283544
+#EXTINF:-1 tvg-id="" tvg-name="CN: 广东 ‖ 清新综合台" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 广东 ‖ 清新综合台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283802
+#EXTINF:-1 tvg-id="" tvg-name="CN: 广东 Ⅰ 韶关公共台" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8e74846b65c183c51b5a9e9cfb320b73.png" group-title="China",CN: 广东 Ⅰ 韶关公共台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283653
+#EXTINF:-1 tvg-id="" tvg-name="CN: 延边卫视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5c1d442a8bc16151fbae933fbe20644e.png" group-title="China",CN: 延边卫视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283565
+#EXTINF:-1 tvg-id="" tvg-name="CN: 张家港新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/52f27abaebca46dc55dde83f556cfb51.png" group-title="China",CN: 张家港新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283768
+#EXTINF:-1 tvg-id="" tvg-name="CN: 张家界1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 张家界1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283569
+#EXTINF:-1 tvg-id="" tvg-name="CN: 张家界2台" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 张家界2台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283570
+#EXTINF:-1 tvg-id="" tvg-name="CN: 忍者神龟" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 忍者神龟
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283771
+#EXTINF:-1 tvg-id="" tvg-name="CN: 房山电视台" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7edf9fa31fbfd839fad00878bce421dd.png" group-title="China",CN: 房山电视台
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283623
+#EXTINF:-1 tvg-id="" tvg-name="CN: 新昌新聞綜合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 新昌新聞綜合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283804
+#EXTINF:-1 tvg-id="" tvg-name="CN: 新泰乡村党建" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 新泰乡村党建
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/294710
+#EXTINF:-1 tvg-id="" tvg-name="CN: 新泰鄉村黨建" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d001de665431e6a23cde80ccc6038d4e.png" group-title="China",CN: 新泰鄉村黨建
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/294714
+#EXTINF:-1 tvg-id="" tvg-name="CN: 晋中公共" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5aabfad027a0360673ec4a85b0de9e4f.png" group-title="China",CN: 晋中公共
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283534
+#EXTINF:-1 tvg-id="" tvg-name="CN: 晋中综合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 晋中综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283535
+#EXTINF:-1 tvg-id="" tvg-name="CN: 武进新闻" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/118b1d9d3f3afae70466eb8b0245aa77.png" group-title="China",CN: 武进新闻
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/294736
+#EXTINF:-1 tvg-id="" tvg-name="CN: 江津文化旅游" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 江津文化旅游
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283526
+#EXTINF:-1 tvg-id="" tvg-name="CN: 洪雅新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/51088c2ae6c06c2c317b7fa9e9147bf5.png" group-title="China",CN: 洪雅新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283445
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江 Ⅰ 浙江休闲" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江 Ⅰ 浙江休闲
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283447
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江 Ⅰ 浙江少儿" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5bd89a3842c750b94e1d74a0a963792a.png" group-title="China",CN: 浙江 Ⅰ 浙江少儿
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283449
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江 Ⅰ 浙江新闻" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江 Ⅰ 浙江新闻
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283451
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江 Ⅰ 浙江经济" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江 Ⅰ 浙江经济
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283453
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江6套" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江6套
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283456
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江公共" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江公共
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283457
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江国际" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江国际
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283459
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江少儿" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7d1f2d412427559f3bd5db22a9bf905c.png" group-title="China",CN: 浙江少儿
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283622
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江教科影视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6196c61e53ec107ead201d287206e71d.png" group-title="China",CN: 浙江教科影视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/294753
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江数码时代" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8ce49e622e93235ea100fe3707830f5c.png" group-title="China",CN: 浙江数码时代
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283663
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江民生休闲" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e8282fd047d5f020827333bd2d8fcb52.png" group-title="China",CN: 浙江民生休闲
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283633
+#EXTINF:-1 tvg-id="" tvg-name="CN: 浙江钱江" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 浙江钱江
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283611
+#EXTINF:-1 tvg-id="" tvg-name="CN: 滦县综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ae1cb98bac5227bb63a1c56174c56628.png" group-title="China",CN: 滦县综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283502
+#EXTINF:-1 tvg-id="" tvg-name="CN: 滦县综艺" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 滦县综艺
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283787
+#EXTINF:-1 tvg-id="" tvg-name="CN: 滨海新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9abfca9234705e625e85a8cf86233c47.png" group-title="China",CN: 滨海新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/294756
+#EXTINF:-1 tvg-id="" tvg-name="CN: 漳州新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5fc29fb95ac8759e00eef9bebf316e11.png" group-title="China",CN: 漳州新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283506
+#EXTINF:-1 tvg-id="" tvg-name="CN: 澳视澳门" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/c024923353dc12dd9a9d4da20c436514.png" group-title="China",CN: 澳视澳门
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283509
+#EXTINF:-1 tvg-id="" tvg-name="CN: 澳视葡文" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/95ffa35898d562bc56413598f1c6e255.png" group-title="China",CN: 澳视葡文
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283510
+#EXTINF:-1 tvg-id="" tvg-name="CN: 澳门体育" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 澳门体育
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283513
+#EXTINF:-1 tvg-id="" tvg-name="CN: 点掌财经" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/bd33405ef29db35e7b2419a78bf6c2ea.png" group-title="China",CN: 点掌财经
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283516
+#EXTINF:-1 tvg-id="" tvg-name="CN: 耀才财经" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9d6cea515eabd66937c5cc967c193d27.png" group-title="China",CN: 耀才财经
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283432
+#EXTINF:-1 tvg-id="" tvg-name="CN: 萧山新闻综合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 萧山新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283403
+#EXTINF:-1 tvg-id="" tvg-name="CN: 萬州三峽移民" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d859edbb4ead2160e9cca8d559851572.png" group-title="China",CN: 萬州三峽移民
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283404
+#EXTINF:-1 tvg-id="" tvg-name="CN: 萬州影視文藝" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 萬州影視文藝
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283405
+#EXTINF:-1 tvg-id="" tvg-name="CN: 萬州科教頻道" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 萬州科教頻道
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283406
+#EXTINF:-1 tvg-id="" tvg-name="CN: 萬州綜合頻道" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90a199c73bed7a80153a106238f48586.png" group-title="China",CN: 萬州綜合頻道
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283407
+#EXTINF:-1 tvg-id="" tvg-name="CN: 蓬安新闻综合" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f8be9d32d8ae2af3e170494f14ec4b16.png" group-title="China",CN: 蓬安新闻综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283408
+#EXTINF:-1 tvg-id="" tvg-name="CN: 西藏卫视" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/85c90cf916cd715c87132a5ece57dbbb.png" group-title="China",CN: 西藏卫视
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283399
+#EXTINF:-1 tvg-id="" tvg-name="CN: 西藏藏語" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e6ae2c1f6b304a55856c95437972de30.png" group-title="China",CN: 西藏藏語
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283779
+#EXTINF:-1 tvg-id="" tvg-name="CN: 隆化综合" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 隆化综合
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283791
+#EXTINF:-1 tvg-id="" tvg-name="CN: 青州文化旅游" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 青州文化旅游
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283472
+#EXTINF:-1 tvg-id="" tvg-name="CN: 青州生活" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7cbe9f628c7674d09d69874fd5a739a7.png" group-title="China",CN: 青州生活
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/294778
+#EXTINF:-1 tvg-id="" tvg-name="CN: 韩国花花公子2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China",CN: 韩国花花公子2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283477
+#EXTINF:-1 tvg-id="" tvg-name="CN: 餘姚姚江文化" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/c5a6dab2d73282ae331f7802eed08e58.png" group-title="China",CN: 餘姚姚江文化
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283479
+#EXTINF:-1 tvg-id="" tvg-name="CN: 點掌財經" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/690c350d2886959e5495d19286e2ccef.png" group-title="China",CN: 點掌財經
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283467
+
